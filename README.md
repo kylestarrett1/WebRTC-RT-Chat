@@ -8,3 +8,5 @@ A real-time messaging & video calling platform.
     - APP ID
     - Temporary Token
     - Channel Name
+
+let APP_ID = "YOU-ID"
