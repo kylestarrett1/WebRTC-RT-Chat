@@ -10,7 +10,7 @@ A real-time messaging & video calling platform.
     - Channel Name
 
 ```bash
-let APP_ID = "YOU-ID"
+let APP_ID = "YOUR-ID"
 ```
 
 ![preview](https://github.com/kylestarrett1/WebRTC-RT-Chat/assets/48605044/6a188cf6-9612-4b04-8f35-177d2c87efb6)
